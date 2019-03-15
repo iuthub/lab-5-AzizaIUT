@@ -1,0 +1,4 @@
+;SOCIE;;visa
+;SOCIE;;visa
+;SOCIE;visaAziza;SOL;5566;visaAziza;SOL;5566;visa
+ABu;SOCIE;ada;visa
